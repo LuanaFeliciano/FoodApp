@@ -1,12 +1,13 @@
-package com.example.foodapp.comidas
+package com.example.foodapp.comidas.tipoComida
+
+import com.example.foodapp.comidas.Comida
 
 data class Pastel(
     val recheio: String,
-    val tamanho: String,
     override val preco: Double,
     override val imagemUrl: String,
 ) : Comida {
     override fun descricao(): String {
-        return "Pastel de $recheio, tamanho: $tamanho"
+        return "Pastel de $recheio do Querino"
     }
 }
