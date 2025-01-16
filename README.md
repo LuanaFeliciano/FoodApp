@@ -5,12 +5,6 @@
 </p>
 
 # Aplicativo do Querino
-* Equipe:
-  * Arthur Cruz Modena
-  * Daniel Pontolio Clemente
-  * John Anderson Armeni
-  * Kevin Nevile de Oliveira
-  * Luana Gomes Feliciano
 
 Aplicativo desenvolvido na matéria de LABORATÓRIO DE ENGENHARIA DE SOFTWARE utilizando padrões de projeto.
 
